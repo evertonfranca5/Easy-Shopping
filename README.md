@@ -3,5 +3,5 @@
 pois trata se de um projeto via Mobile, acesso através de celulares.</h3>
 
 
-https://github.com/evertonfranca5/Easy-Shopping/assets/159544981/cfbea1a9-ec45-4f6d-90ee-60b687371a6c
+
 
